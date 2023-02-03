@@ -38,42 +38,26 @@
 	"Mods": [
 		{
 			"id": 1,
-			"name": "",
+			"name": "Bonnie from FNAF",
 			"category": "Mods",
-			"image": "https://aweu.net/2023/BENDOIL/",
-			"download": "https://aweu.net/2023/BENDOIL/",
+			"image": "https://aweu.net/2023/BENDOIL/Difarimod/freddy/Bonnie%20from%20FNAF/Bonnie%20from%20FNAF.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Difarimod/freddy/Bonnie%20from%20FNAF/Bonnie%20from%20FNAF.zip",
 			"description": "file:///android_asset/difarimod.html"
 		},
 		{
 			"id": 2,
-			"name": "",
+			"name": "Broken Freddy from FNAF 2",
 			"category": "Mods",
-			"image": "https://aweu.net/2023/BENDOIL/",
-			"download": "https://aweu.net/2023/BENDOIL/",
+			"image": "https://aweu.net/2023/BENDOIL/Difarimod/freddy/Broken%20Freddy%20from%20FNAF%202/Broken%20Freddy%20from%20FNAF%202.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Difarimod/freddy/Broken%20Freddy%20from%20FNAF%202/Broken%20Freddy%20from%20FNAF%202.zip",
 			"description": "file:///android_asset/difarimod.html"
 		},
 		{
 			"id": 3,
-			"name": "",
+			"name": "FNAF 1",
 			"category": "Mods",
-			"image": "https://aweu.net/2023/BENDOIL/",
-			"download": "https://aweu.net/2023/BENDOIL/",
-			"description": "file:///android_asset/difarimod.html"
-		},
-		{
-			"id": 4,
-			"name": "",
-			"category": "Mods",
-			"image": "https://aweu.net/2023/BENDOIL/",
-			"download": "https://aweu.net/2023/BENDOIL/",
-			"description": "file:///android_asset/difarimod.html"
-		},
-		{
-			"id": 5,
-			"name": "",
-			"category": "Mods",
-			"image": "https://aweu.net/2023/BENDOIL/",
-			"download": "https://aweu.net/2023/BENDOIL/",
+			"image": "https://aweu.net/2023/BENDOIL/Difarimod/freddy/FNAF%201/FNAF%201.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Difarimod/freddy/FNAF%201/Bonnie.zip",
 			"description": "file:///android_asset/difarimod.html"
 		}
 	]
