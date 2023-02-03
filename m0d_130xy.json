@@ -38,42 +38,34 @@
 	"Mods": [
 		{
 			"id": 1,
-			"name": "",
+			"name": "Poppy Hand",
 			"category": "Mods",
-			"image": "https://aweu.net/2023/BENDOIL/",
-			"download": "https://aweu.net/2023/BENDOIL/",
+			"image": "https://aweu.net/2023/BENDOIL/Difarimod/boxy/Poppy%20Hand/Poppy%20Hand.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Difarimod/boxy/Poppy%20Hand/Poppy%20Hand.zip",
 			"description": "file:///android_asset/difarimod.html"
 		},
 		{
 			"id": 2,
-			"name": "",
+			"name": "Poppy Playtime",
 			"category": "Mods",
-			"image": "https://aweu.net/2023/BENDOIL/",
-			"download": "https://aweu.net/2023/BENDOIL/",
+			"image": "https://aweu.net/2023/BENDOIL/Difarimod/boxy/Poppy%20Playtime/Poppy%20Playtime.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Difarimod/boxy/Poppy%20Playtime/Poppy%20Playtime.zip",
 			"description": "file:///android_asset/difarimod.html"
 		},
 		{
 			"id": 3,
-			"name": "",
+			"name": "Poppy Playtime 1 and 2 Chapters",
 			"category": "Mods",
-			"image": "https://aweu.net/2023/BENDOIL/",
-			"download": "https://aweu.net/2023/BENDOIL/",
+			"image": "https://aweu.net/2023/BENDOIL/Difarimod/boxy/Poppy%20Playtime%201%20and%202%20chapters/Poppy%20Playtime%201%20and%202%20chapters.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Difarimod/boxy/Poppy%20Playtime%201%20and%202%20chapters/Poppy%20Playtime%201%20and%202%20chapters.zip",
 			"description": "file:///android_asset/difarimod.html"
 		},
 		{
 			"id": 4,
-			"name": "",
+			"name": "Poppy Playtime 2",
 			"category": "Mods",
-			"image": "https://aweu.net/2023/BENDOIL/",
-			"download": "https://aweu.net/2023/BENDOIL/",
-			"description": "file:///android_asset/difarimod.html"
-		},
-		{
-			"id": 5,
-			"name": "",
-			"category": "Mods",
-			"image": "https://aweu.net/2023/BENDOIL/",
-			"download": "https://aweu.net/2023/BENDOIL/",
+			"image": "https://aweu.net/2023/BENDOIL/Difarimod/boxy/Poppy%20Playtime%202/Poppy%20Playtime%202.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Difarimod/boxy/Poppy%20Playtime%202/Poppy%20Playtime%202.zip",
 			"description": "file:///android_asset/difarimod.html"
 		}
 	]
