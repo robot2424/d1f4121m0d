@@ -38,42 +38,26 @@
 	"Mods": [
 		{
 			"id": 1,
-			"name": "",
+			"name": "Sonic exe",
 			"category": "Mods",
-			"image": "https://aweu.net/2023/BENDOIL/",
-			"download": "https://aweu.net/2023/BENDOIL/",
+			"image": "https://aweu.net/2023/BENDOIL/Difarimod/exe/Sonic%20exe/Sonic%20exe.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Difarimod/exe/Sonic%20exe/Sonic%20exe.zip",
 			"description": "file:///android_asset/difarimod.html"
 		},
 		{
 			"id": 2,
-			"name": "",
+			"name": "Sonic exe 2",
 			"category": "Mods",
-			"image": "https://aweu.net/2023/BENDOIL/",
-			"download": "https://aweu.net/2023/BENDOIL/",
+			"image": "https://aweu.net/2023/BENDOIL/Difarimod/exe/Sonic%20exe%202/Sonic%20exe%202.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Difarimod/exe/Sonic%20exe%202/Sonic%20exe%202.zip",
 			"description": "file:///android_asset/difarimod.html"
 		},
 		{
 			"id": 3,
-			"name": "",
+			"name": "Sonic exe 3",
 			"category": "Mods",
-			"image": "https://aweu.net/2023/BENDOIL/",
-			"download": "https://aweu.net/2023/BENDOIL/",
-			"description": "file:///android_asset/difarimod.html"
-		},
-		{
-			"id": 4,
-			"name": "",
-			"category": "Mods",
-			"image": "https://aweu.net/2023/BENDOIL/",
-			"download": "https://aweu.net/2023/BENDOIL/",
-			"description": "file:///android_asset/difarimod.html"
-		},
-		{
-			"id": 5,
-			"name": "",
-			"category": "Mods",
-			"image": "https://aweu.net/2023/BENDOIL/",
-			"download": "https://aweu.net/2023/BENDOIL/",
+			"image": "https://aweu.net/2023/BENDOIL/Difarimod/exe/Sonic%20exe%203/Sonic%20exe%203.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Difarimod/exe/Sonic%20exe%203/Sonic%20exe%203.zip",
 			"description": "file:///android_asset/difarimod.html"
 		}
 	]
