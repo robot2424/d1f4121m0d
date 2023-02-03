@@ -38,42 +38,42 @@
 	"Mods": [
 		{
 			"id": 1,
-			"name": "",
+			"name": "Choo Choo Charles + Yellow Train",
 			"category": "Mods",
-			"image": "https://aweu.net/2023/BENDOIL/",
-			"download": "https://aweu.net/2023/BENDOIL/",
+			"image": "https://aweu.net/2023/BENDOIL/Difarimod/choochoo/Choo%20Choo%20Charles%20%2B%20Yellow%20Train/Choo%20Choo%20Charles%20%2B%20Yellow%20Train.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Difarimod/choochoo/Choo%20Choo%20Charles%20%2B%20Yellow%20Train/Choo%20Choo%20Charles%20%2B%20Yellow%20Train.zip",
 			"description": "file:///android_asset/difarimod.html"
 		},
 		{
 			"id": 2,
-			"name": "",
+			"name": "Choo Choo Charles 2",
 			"category": "Mods",
-			"image": "https://aweu.net/2023/BENDOIL/",
-			"download": "https://aweu.net/2023/BENDOIL/",
+			"image": "https://aweu.net/2023/BENDOIL/Difarimod/choochoo/Choo%20Choo%20Charles%202/Choo%20Choo%20Charles%202.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Difarimod/choochoo/Choo%20Choo%20Charles%202/Choo%20Choo%20Charles%202.zip",
 			"description": "file:///android_asset/difarimod.html"
 		},
 		{
 			"id": 3,
-			"name": "",
+			"name": "Choo Choo Charles 3",
 			"category": "Mods",
-			"image": "https://aweu.net/2023/BENDOIL/",
-			"download": "https://aweu.net/2023/BENDOIL/",
+			"image": "https://aweu.net/2023/BENDOIL/Difarimod/choochoo/Choo%20Choo%20Charles%203/Choo%20Choo%20Charles%203.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Difarimod/choochoo/Choo%20Choo%20Charles%203/Choo%20Choo%20Charles%203.zip",
 			"description": "file:///android_asset/difarimod.html"
 		},
 		{
 			"id": 4,
-			"name": "",
+			"name": "Choo Choo Charles 4",
 			"category": "Mods",
-			"image": "https://aweu.net/2023/BENDOIL/",
-			"download": "https://aweu.net/2023/BENDOIL/",
+			"image": "https://aweu.net/2023/BENDOIL/Difarimod/choochoo/Choo%20Choo%20Charles%204/Choo%20Choo%20Charles%204.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Difarimod/choochoo/Choo%20Choo%20Charles%204/Choo%20Choo%20Charles%204.zip",
 			"description": "file:///android_asset/difarimod.html"
 		},
 		{
 			"id": 5,
-			"name": "",
+			"name": "Choo Choo Charles melsave",
 			"category": "Mods",
-			"image": "https://aweu.net/2023/BENDOIL/",
-			"download": "https://aweu.net/2023/BENDOIL/",
+			"image": "https://aweu.net/2023/BENDOIL/Difarimod/choochoo/Choo%20Choo%20Charles%20melsave/Choo%20Choo%20Charles%20melsave.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Difarimod/choochoo/Choo%20Choo%20Charles%20melsave/Choo%20Choo%20Charles%20melsave.zip",
 			"description": "file:///android_asset/difarimod.html"
 		}
 	]
