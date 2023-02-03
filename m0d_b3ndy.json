@@ -38,42 +38,42 @@
 	"Mods": [
 		{
 			"id": 1,
-			"name": "",
+			"name": "Bendy The ink Demon",
 			"category": "Mods",
-			"image": "https://aweu.net/2023/BENDOIL/",
-			"download": "https://aweu.net/2023/BENDOIL/",
+			"image": "https://aweu.net/2023/BENDOIL/Difarimod/bendy/Bendy%20The%20ink%20Demon/Bendy%20The%20ink%20Demon.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Difarimod/bendy/Bendy%20The%20ink%20Demon/Bendy%20The%20ink%20Demon.zip",
 			"description": "file:///android_asset/difarimod.html"
 		},
 		{
 			"id": 2,
-			"name": "",
+			"name": "Crippipaste and Horror",
 			"category": "Mods",
-			"image": "https://aweu.net/2023/BENDOIL/",
-			"download": "https://aweu.net/2023/BENDOIL/",
+			"image": "https://aweu.net/2023/BENDOIL/Difarimod/bendy/Crippipaste%20and%20Horror/Crippipaste%20and%20Horror.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Difarimod/bendy/Crippipaste%20and%20Horror/Crippipaste%20and%20Horror.zip",
 			"description": "file:///android_asset/difarimod.html"
 		},
 		{
 			"id": 3,
-			"name": "",
+			"name": "Ink Demon",
 			"category": "Mods",
-			"image": "https://aweu.net/2023/BENDOIL/",
-			"download": "https://aweu.net/2023/BENDOIL/",
+			"image": "https://aweu.net/2023/BENDOIL/Difarimod/bendy/Ink%20Demon/Ink%20Demon.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Difarimod/bendy/Ink%20Demon/Ink%20Demon.zip",
 			"description": "file:///android_asset/difarimod.html"
 		},
 		{
 			"id": 4,
-			"name": "",
+			"name": "Pack by batim",
 			"category": "Mods",
-			"image": "https://aweu.net/2023/BENDOIL/",
-			"download": "https://aweu.net/2023/BENDOIL/",
+			"image": "https://aweu.net/2023/BENDOIL/Difarimod/bendy/Pack%20by%20batim/Pack%20by%20batim.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Difarimod/bendy/Pack%20by%20batim/Pack%20by%20batim.zip",
 			"description": "file:///android_asset/difarimod.html"
 		},
 		{
 			"id": 5,
-			"name": "",
+			"name": "Pack by bendy",
 			"category": "Mods",
-			"image": "https://aweu.net/2023/BENDOIL/",
-			"download": "https://aweu.net/2023/BENDOIL/",
+			"image": "https://aweu.net/2023/BENDOIL/Difarimod/bendy/Pack%20by%20bendy/Pack%20by%20bendy.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Difarimod/bendy/Pack%20by%20bendy/Pack%20by%20bendy.zip",
 			"description": "file:///android_asset/difarimod.html"
 		}
 	]
