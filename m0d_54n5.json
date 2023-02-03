@@ -38,42 +38,34 @@
 	"Mods": [
 		{
 			"id": 1,
-			"name": "",
+			"name": "Last_breath_sans_pack",
 			"category": "Mods",
-			"image": "https://aweu.net/2023/BENDOIL/",
-			"download": "https://aweu.net/2023/BENDOIL/",
+			"image": "https://aweu.net/2023/BENDOIL/Difarimod/sans/Last_breath_sans_pack/Last_breath_sans_pack_by_lazybones.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Difarimod/sans/Last_breath_sans_pack/Last_breath_sans_pack_by_lazybones.zip",
 			"description": "file:///android_asset/difarimod.html"
 		},
 		{
 			"id": 2,
-			"name": "",
+			"name": "sans",
 			"category": "Mods",
-			"image": "https://aweu.net/2023/BENDOIL/",
-			"download": "https://aweu.net/2023/BENDOIL/",
+			"image": "https://aweu.net/2023/BENDOIL/Difarimod/sans/sans/sans.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Difarimod/sans/sans/sans.zip",
 			"description": "file:///android_asset/difarimod.html"
 		},
 		{
 			"id": 3,
-			"name": "",
+			"name": "undertale mel​",
 			"category": "Mods",
-			"image": "https://aweu.net/2023/BENDOIL/",
-			"download": "https://aweu.net/2023/BENDOIL/",
+			"image": "https://aweu.net/2023/BENDOIL/Difarimod/sans/undertale%20mel%E2%80%8B/undertale%20mel%E2%80%8B.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Difarimod/sans/undertale%20mel%E2%80%8B/undertale%20mel%E2%80%8B.zip",
 			"description": "file:///android_asset/difarimod.html"
 		},
 		{
 			"id": 4,
-			"name": "",
+			"name": "Undertale sans + paps + bones + spagetti",
 			"category": "Mods",
-			"image": "https://aweu.net/2023/BENDOIL/",
-			"download": "https://aweu.net/2023/BENDOIL/",
-			"description": "file:///android_asset/difarimod.html"
-		},
-		{
-			"id": 5,
-			"name": "",
-			"category": "Mods",
-			"image": "https://aweu.net/2023/BENDOIL/",
-			"download": "https://aweu.net/2023/BENDOIL/",
+			"image": "https://aweu.net/2023/BENDOIL/Difarimod/sans/Undertale%20sans%20%2B%20paps%20%2B%20bones%20%2B%20spagetti/Undertale%20sans%20%2B%20paps%20%2B%20bones%20%2B%20spagetti.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Difarimod/sans/Undertale%20sans%20%2B%20paps%20%2B%20bones%20%2B%20spagetti/Undertale%20sans%20%2B%20paps%20%2B%20bones%20%2B%20spagetti.zip",
 			"description": "file:///android_asset/difarimod.html"
 		}
 	]
