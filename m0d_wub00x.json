@@ -38,42 +38,50 @@
 	"Mods": [
 		{
 			"id": 1,
-			"name": "",
+			"name": "EdamimiPack V2.0",
 			"category": "Mods",
-			"image": "https://aweu.net/2023/BENDOIL/",
-			"download": "https://aweu.net/2023/BENDOIL/",
+			"image": "https://aweu.net/2023/BENDOIL/Difarimod/wubbox/EdamimiPack%20V2.0/EdamimiPack%20V2.0.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Difarimod/wubbox/EdamimiPack%20V2.0/EdamimiPack%20V2.0.zip",
 			"description": "file:///android_asset/difarimod.html"
 		},
 		{
 			"id": 2,
-			"name": "",
+			"name": "Epic Plant Wubbox",
 			"category": "Mods",
-			"image": "https://aweu.net/2023/BENDOIL/",
-			"download": "https://aweu.net/2023/BENDOIL/",
+			"image": "https://aweu.net/2023/BENDOIL/Difarimod/wubbox/Epic%20Plant%20Wubbox/Epic%20Plant%20Wubbox.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Difarimod/wubbox/Epic%20Plant%20Wubbox/Epic%20Plant%20Wubbox.zip",
 			"description": "file:///android_asset/difarimod.html"
 		},
 		{
 			"id": 3,
-			"name": "",
+			"name": "Evil Wubbox",
 			"category": "Mods",
-			"image": "https://aweu.net/2023/BENDOIL/",
-			"download": "https://aweu.net/2023/BENDOIL/",
+			"image": "https://aweu.net/2023/BENDOIL/Difarimod/wubbox/Evil%20Wubbox/Evil%20Wubbox.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Difarimod/wubbox/Evil%20Wubbox/Evil%20Wubbox.zip",
 			"description": "file:///android_asset/difarimod.html"
 		},
 		{
 			"id": 4,
-			"name": "",
+			"name": "My Singing Monsters X Melon Playground",
 			"category": "Mods",
-			"image": "https://aweu.net/2023/BENDOIL/",
-			"download": "https://aweu.net/2023/BENDOIL/",
+			"image": "https://aweu.net/2023/BENDOIL/Difarimod/wubbox/My%20Singing%20Monsters%20X%20Melon%20Playground/My%20Singing%20Monsters%20X%20Melon%20Playground.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Difarimod/wubbox/My%20Singing%20Monsters%20X%20Melon%20Playground/My%20Singing%20Monsters%20X%20Melon%20Playground.zip",
 			"description": "file:///android_asset/difarimod.html"
 		},
 		{
 			"id": 5,
-			"name": "",
+			"name": "Wubbox",
 			"category": "Mods",
-			"image": "https://aweu.net/2023/BENDOIL/",
-			"download": "https://aweu.net/2023/BENDOIL/",
+			"image": "https://aweu.net/2023/BENDOIL/Difarimod/wubbox/Wubbox/Wubbox.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Difarimod/wubbox/Wubbox/Wubbox.zip",
+			"description": "file:///android_asset/difarimod.html"
+		},
+		{
+			"id": 6,
+			"name": "Wubboxes",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Difarimod/wubbox/Wubboxes/Wubboxes.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Difarimod/wubbox/Wubboxes/Wubboxes.zip",
 			"description": "file:///android_asset/difarimod.html"
 		}
 	]
