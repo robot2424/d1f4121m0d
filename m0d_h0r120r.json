@@ -38,42 +38,42 @@
 	"Mods": [
 		{
 			"id": 1,
-			"name": "",
+			"name": "Crippy pak 2",
 			"category": "Mods",
-			"image": "https://aweu.net/2023/BENDOIL/",
-			"download": "https://aweu.net/2023/BENDOIL/",
+			"image": "https://aweu.net/2023/BENDOIL/Difarimod/horor/Crippy%20pak%202%E2%80%8B/Crippy%20pak%202%E2%80%8B.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Difarimod/horor/Crippy%20pak%202%E2%80%8B/Crippy%20pak%202%E2%80%8B.zip",
 			"description": "file:///android_asset/difarimod.html"
 		},
 		{
 			"id": 2,
-			"name": "",
+			"name": "FNaF 1 minipack",
 			"category": "Mods",
-			"image": "https://aweu.net/2023/BENDOIL/",
-			"download": "https://aweu.net/2023/BENDOIL/",
+			"image": "https://aweu.net/2023/BENDOIL/Difarimod/horor/FNaF%201%20minipack/FNaF%201%20minipack.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Difarimod/horor/FNaF%201%20minipack/FNaF%201%20minipack.zip",
 			"description": "file:///android_asset/difarimod.html"
 		},
 		{
 			"id": 3,
-			"name": "",
+			"name": "FNAF Pack 1",
 			"category": "Mods",
-			"image": "https://aweu.net/2023/BENDOIL/",
-			"download": "https://aweu.net/2023/BENDOIL/",
+			"image": "https://aweu.net/2023/BENDOIL/Difarimod/horor/FNAF%20Pack%201/FNAF%20Pack%201.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Difarimod/horor/FNAF%20Pack%201/FNAF%20Pack%201.zip",
 			"description": "file:///android_asset/difarimod.html"
 		},
 		{
 			"id": 4,
-			"name": "",
+			"name": "Glemrock Freddy from fnaf 9",
 			"category": "Mods",
-			"image": "https://aweu.net/2023/BENDOIL/",
-			"download": "https://aweu.net/2023/BENDOIL/",
+			"image": "https://aweu.net/2023/BENDOIL/Difarimod/horor/Glemrock%20Freddy%20from%20fnaf%209/Glemrock%20Freddy%20from%20fnaf%209.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Difarimod/horor/Glemrock%20Freddy%20from%20fnaf%209/Glemrock%20Freddy%20from%20fnaf%209.zip",
 			"description": "file:///android_asset/difarimod.html"
 		},
 		{
 			"id": 5,
-			"name": "",
+			"name": "Huge mod-pack game FNAF 2",
 			"category": "Mods",
-			"image": "https://aweu.net/2023/BENDOIL/",
-			"download": "https://aweu.net/2023/BENDOIL/",
+			"image": "https://aweu.net/2023/BENDOIL/Difarimod/horor/Huge%20mod-pack%20game%20FNAF%202/Huge%20mod-pack%20game%20FNAF%202.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Difarimod/horor/Huge%20mod-pack%20game%20FNAF%202/Huge%20mod-pack%20game%20FNAF%202.zip",
 			"description": "file:///android_asset/difarimod.html"
 		}
 	]
