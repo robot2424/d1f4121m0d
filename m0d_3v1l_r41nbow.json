@@ -38,42 +38,42 @@
 	"Mods": [
 		{
 			"id": 1,
-			"name": "",
+			"name": "Green Rainbow Friend v2",
 			"category": "Mods",
-			"image": "https://aweu.net/2023/BENDOIL/",
-			"download": "https://aweu.net/2023/BENDOIL/",
+			"image": "https://aweu.net/2023/BENDOIL/Difarimod/evilrainbow/Green%20Rainbow%20Friend%20v2/Green%20Rainbow%20Friend%20v2.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Difarimod/evilrainbow/Green%20Rainbow%20Friend%20v2/Green%20Rainbow%20Friend%20v2.zip",
 			"description": "file:///android_asset/difarimod.html"
 		},
 		{
 			"id": 2,
-			"name": "",
+			"name": "PURPLE RAINBOW FRIEND MOD",
 			"category": "Mods",
-			"image": "https://aweu.net/2023/BENDOIL/",
-			"download": "https://aweu.net/2023/BENDOIL/",
+			"image": "https://aweu.net/2023/BENDOIL/Difarimod/evilrainbow/PURPLE%20RAINBOW%20FRIEND%20MOD/PURPLE%20RAINBOW%20FRIEND%20MOD.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Difarimod/evilrainbow/PURPLE%20RAINBOW%20FRIEND%20MOD/PURPLE%20RAINBOW%20FRIEND%20MOD.zip",
 			"description": "file:///android_asset/difarimod.html"
 		},
 		{
 			"id": 3,
-			"name": "",
+			"name": "Rainbow Friend pack",
 			"category": "Mods",
-			"image": "https://aweu.net/2023/BENDOIL/",
-			"download": "https://aweu.net/2023/BENDOIL/",
+			"image": "https://aweu.net/2023/BENDOIL/Difarimod/evilrainbow/Rainbow%20Friend%20pack/Rainbow%20Friend%20pack.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Difarimod/evilrainbow/Rainbow%20Friend%20pack/Rainbow%20Friend%20pack.zip",
 			"description": "file:///android_asset/difarimod.html"
 		},
 		{
 			"id": 4,
-			"name": "",
+			"name": "Rainbow Friends",
 			"category": "Mods",
-			"image": "https://aweu.net/2023/BENDOIL/",
-			"download": "https://aweu.net/2023/BENDOIL/",
+			"image": "https://aweu.net/2023/BENDOIL/Difarimod/evilrainbow/Rainbow%20Friends/Rainbow%20Friends.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Difarimod/evilrainbow/Rainbow%20Friends/Rainbow%20Friends.zip",
 			"description": "file:///android_asset/difarimod.html"
 		},
 		{
 			"id": 5,
-			"name": "",
+			"name": "Rainbow Friends 2",
 			"category": "Mods",
-			"image": "https://aweu.net/2023/BENDOIL/",
-			"download": "https://aweu.net/2023/BENDOIL/",
+			"image": "https://aweu.net/2023/BENDOIL/Difarimod/evilrainbow/Rainbow%20Friends%202/Rainbow%20Friends%202.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Difarimod/evilrainbow/Rainbow%20Friends%202/Rainbow%20Friends%202.zip",
 			"description": "file:///android_asset/difarimod.html"
 		}
 	]
