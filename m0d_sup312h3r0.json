@@ -75,6 +75,222 @@
 			"image": "https://aweu.net/2023/BENDOIL/Difarimod/superhero/Deadpool%20Mod/Deadpool%20Mod.jpg",
 			"download": "https://aweu.net/2023/BENDOIL/Difarimod/superhero/Deadpool%20Mod/Deadpool%20Mod.zip",
 			"description": "file:///android_asset/difarimod.html"
+		},
+		{
+			"id": 6,
+			"name": "Iron Man (Mark3)",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Difarimod/superhero/Iron%20Man%20(Mark3)/Iron%20Man%20(Mark3).jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Difarimod/superhero/Iron%20Man%20(Mark3)/Iron%20Man%20(Mark3).zip",
+			"description": "file:///android_asset/difarimod.html"
+		},
+		{
+			"id": 7,
+			"name": "Iron Man and Suitcase",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Difarimod/superhero/Iron%20Man%20and%20Suitcase/Iron%20Man%20and%20Suitcase.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Difarimod/superhero/Iron%20Man%20and%20Suitcase/Iron%20Man%20and%20Suitcase.zip",
+			"description": "file:///android_asset/difarimod.html"
+		},
+		{
+			"id": 8,
+			"name": "Iron Man costumes",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Difarimod/superhero/Iron%20Man%20costumes/Iron%20Man%20costumes.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Difarimod/superhero/Iron%20Man%20costumes/Iron%20Man%20costumes.zip",
+			"description": "file:///android_asset/difarimod.html"
+		},
+		{
+			"id": 9,
+			"name": "Iron Man Mark 4",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Difarimod/superhero/Iron%20Man%20Mark%204/Iron%20Man%20Mark%204.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Difarimod/superhero/Iron%20Man%20Mark%204/Iron%20Man%20Mark%204.zip",
+			"description": "file:///android_asset/difarimod.html"
+		},
+		{
+			"id": 10,
+			"name": "NPC - Batman",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Difarimod/superhero/NPC%20-%20Batman/NPC%20-%20Batman.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Difarimod/superhero/NPC%20-%20Batman/NPC%20-%20Batman.zip",
+			"description": "file:///android_asset/difarimod.html"
+		},
+		{
+			"id": 11,
+			"name": "NPC - Batman 2",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Difarimod/superhero/NPC%20-%20Batman%202/NPC%20-%20Batman%202.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Difarimod/superhero/NPC%20-%20Batman%202/NPC%20-%20Batman%202.zip",
+			"description": "file:///android_asset/difarimod.html"
+		},
+		{
+			"id": 12,
+			"name": "NPC - Captain America",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Difarimod/superhero/NPC%20-%20Captain%20America/NPC%20-%20Captain%20America.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Difarimod/superhero/NPC%20-%20Captain%20America/NPC%20-%20Captain%20America.zip",
+			"description": "file:///android_asset/difarimod.html"
+		},
+		{
+			"id": 13,
+			"name": "NPC - Deadpool",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Difarimod/superhero/NPC%20-%20Deadpool/NPC%20-%20Deadpool.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Difarimod/superhero/NPC%20-%20Deadpool/NPC%20-%20Deadpool.zip",
+			"description": "file:///android_asset/difarimod.html"
+		},
+		{
+			"id": 14,
+			"name": "NPC - Hulk",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Difarimod/superhero/NPC%20-%20Hulk/NPC%20-%20Hulk.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Difarimod/superhero/NPC%20-%20Hulk/NPC%20-%20Hulk.zip",
+			"description": "file:///android_asset/difarimod.html"
+		},
+		{
+			"id": 15,
+			"name": "NPC - Iron Man",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Difarimod/superhero/NPC%20-%20Iron%20Man/NPC%20-%20Iron%20Man.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Difarimod/superhero/NPC%20-%20Iron%20Man/NPC%20-%20Iron%20Man.zip",
+			"description": "file:///android_asset/difarimod.html"
+		},
+		{
+			"id": 16,
+			"name": "NPC - Man - Ant",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Difarimod/superhero/NPC%20-%20Man%20-%20Ant/NPC%20-%20Man%20-%20Ant.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Difarimod/superhero/NPC%20-%20Man%20-%20Ant/NPC%20-%20Man%20-%20Ant.zip",
+			"description": "file:///android_asset/difarimod.html"
+		},
+		{
+			"id": 17,
+			"name": "NPC - Rhino",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Difarimod/superhero/NPC%20-%20Rhino/NPC%20-%20Rhino.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Difarimod/superhero/NPC%20-%20Rhino/NPC%20-%20Rhino.zip",
+			"description": "file:///android_asset/difarimod.html"
+		},
+		{
+			"id": 18,
+			"name": "NPC - Spider-Man",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Difarimod/superhero/NPC%20-%20Spider-Man/NPC%20-%20Spider-Man.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Difarimod/superhero/NPC%20-%20Spider-Man/NPC%20-%20Spider-Man.zip",
+			"description": "file:///android_asset/difarimod.html"
+		},
+		{
+			"id": 19,
+			"name": "NPC - Superman",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Difarimod/superhero/NPC%20-%20Superman/NPC%20-%20Superman.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Difarimod/superhero/NPC%20-%20Superman/NPC%20-%20Superman.zip",
+			"description": "file:///android_asset/difarimod.html"
+		},
+		{
+			"id": 20,
+			"name": "NPC - Superman 2",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Difarimod/superhero/NPC%20-%20Superman%202/NPC%20-%20Superman%202.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Difarimod/superhero/NPC%20-%20Superman%202/NPC%20-%20Superman%202.zip",
+			"description": "file:///android_asset/difarimod.html"
+		},
+		{
+			"id": 21,
+			"name": "NPC - Superman 3",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Difarimod/superhero/NPC%20-%20Superman%203/NPC%20-%20Superman%203.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Difarimod/superhero/NPC%20-%20Superman%203/NPC%20-%20Superman%203.zip",
+			"description": "file:///android_asset/difarimod.html"
+		},
+		{
+			"id": 22,
+			"name": "NPC - Thor",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Difarimod/superhero/NPC%20-%20Thor/NPC%20-%20Thor.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Difarimod/superhero/NPC%20-%20Thor/NPC%20-%20Thor.zip",
+			"description": "file:///android_asset/difarimod.html"
+		},
+		{
+			"id": 23,
+			"name": "NPC Black Panther",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Difarimod/superhero/NPC%20Black%20Panther/NPC%20Black%20Panther.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Difarimod/superhero/NPC%20Black%20Panther/NPC%20Black%20Panther.zip",
+			"description": "file:///android_asset/difarimod.html"
+		},
+		{
+			"id": 24,
+			"name": "NPC Deadpool",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Difarimod/superhero/NPC%20Deadpool/NPC%20Deadpool.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Difarimod/superhero/NPC%20Deadpool/NPC%20Deadpool.zip",
+			"description": "file:///android_asset/difarimod.html"
+		},
+		{
+			"id": 25,
+			"name": "NPC pack for Iron Man",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Difarimod/superhero/NPC%20pack%20for%20Iron%20Man/NPC%20pack%20for%20Iron%20Man.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Difarimod/superhero/NPC%20pack%20for%20Iron%20Man/NPC%20pack%20for%20Iron%20Man.zip",
+			"description": "file:///android_asset/difarimod.html"
+		},
+		{
+			"id": 26,
+			"name": "NPS - Taskmaster",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Difarimod/superhero/NPS%20-%20Taskmaster/NPS%20-%20Taskmaster.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Difarimod/superhero/NPS%20-%20Taskmaster/NPS%20-%20Taskmaster.zip",
+			"description": "file:///android_asset/difarimod.html"
+		},
+		{
+			"id": 27,
+			"name": "Pack on Spider-Man",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Difarimod/superhero/Pack%20on%20Spider-Man/Pack%20on%20Spider-Man.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Difarimod/superhero/Pack%20on%20Spider-Man/Pack%20on%20Spider-Man.zip",
+			"description": "file:///android_asset/difarimod.html"
+		},
+		{
+			"id": 28,
+			"name": "Spider-Man NPC Mod",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Difarimod/superhero/Spider-Man%20NPC%20Mod/Spider-Man%20NPC%20Mod.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Difarimod/superhero/Spider-Man%20NPC%20Mod/Spider-Man%20NPC%20Mod.zip",
+			"description": "file:///android_asset/difarimod.html"
+		},
+		{
+			"id": 29,
+			"name": "Spiderman Miles Moralization",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Difarimod/superhero/Spiderman%20Miles%20Moralization/Spiderman%20Miles%20Moralization.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Difarimod/superhero/Spiderman%20Miles%20Moralization/Spiderman%20Miles%20Moralization.zip",
+			"description": "file:///android_asset/difarimod.html"
+		},
+		{
+			"id": 30,
+			"name": "Superman",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Difarimod/superhero/Superman/Superman.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Difarimod/superhero/Superman/Superman.zip",
+			"description": "file:///android_asset/difarimod.html"
+		},
+		{
+			"id": 31,
+			"name": "Tobey Maguire Spiderman mod",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Difarimod/superhero/Tobey%20Maguire%20Spiderman%20mod/Tobey%20Maguire%20Spiderman%20mod.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Difarimod/superhero/Tobey%20Maguire%20Spiderman%20mod/Tobey%20Maguire%20Spiderman%20mod.zip",
+			"description": "file:///android_asset/difarimod.html"
+		},
+		{
+			"id": 32,
+			"name": "Tokyo Avengers",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Difarimod/superhero/Tokyo%20Avengers/Tokyo%20Avengers.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Difarimod/superhero/Tokyo%20Avengers/Tokyo%20Avengers.zip",
+			"description": "file:///android_asset/difarimod.html"
 		}
 	]
 }
