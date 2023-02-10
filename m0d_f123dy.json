@@ -59,6 +59,126 @@
 			"image": "https://aweu.net/2023/BENDOIL/Difarimod/freddy/FNAF%201/FNAF%201.jpg",
 			"download": "https://aweu.net/2023/BENDOIL/Difarimod/freddy/FNAF%201/Bonnie.zip",
 			"description": "file:///android_asset/difarimod.html"
+		},
+		{
+			"id": 4,
+			"name": "FNaF 1 Minipack",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Difarimod/freddy/FNaF%201%20Minipack/FNaF%201%20Minipack.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Difarimod/freddy/FNaF%201%20Minipack/FNaF%201%20Minipack.zip",
+			"description": "file:///android_asset/difarimod.html"
+		},
+		{
+			"id": 5,
+			"name": "FNAF 2",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Difarimod/freddy/FNAF%202/FNAF%202.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Difarimod/freddy/FNAF%202/FNAF%202.zip",
+			"description": "file:///android_asset/difarimod.html"
+		},
+		{
+			"id": 6,
+			"name": "FNAF 9",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Difarimod/freddy/FNAF%209/FNAF%209.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Difarimod/freddy/FNAF%209/FNAF%209.zip",
+			"description": "file:///android_asset/difarimod.html"
+		},
+		{
+			"id": 7,
+			"name": "FNAF Mini Pack",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Difarimod/freddy/FNAF%20Mini%20Pack/FNAF%20Mini%20Pack.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Difarimod/freddy/FNAF%20Mini%20Pack/FNAF%20Mini%20Pack.zip",
+			"description": "file:///android_asset/difarimod.html"
+		},
+		{
+			"id": 8,
+			"name": "FNF Plush",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Difarimod/freddy/FNF%20Plush/FNF%20Plush.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Difarimod/freddy/FNF%20Plush/FNF%20Plush.zip",
+			"description": "file:///android_asset/difarimod.html"
+		},
+		{
+			"id": 9,
+			"name": "Freddy from FNAF",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Difarimod/freddy/Freddy%20from%20FNAF/Freddy%20from%20FNAF.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Difarimod/freddy/Freddy%20from%20FNAF/Freddy%20from%20FNAF.zip",
+			"description": "file:///android_asset/difarimod.html"
+		},
+		{
+			"id": 10,
+			"name": "Glemrock",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Difarimod/freddy/Glemrock/Glemrock.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Difarimod/freddy/Glemrock/Glemrock.zip",
+			"description": "file:///android_asset/difarimod.html"
+		},
+		{
+			"id": 11,
+			"name": "Map from the FNaF 1",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Difarimod/freddy/Map%20from%20the%20FNaF%201/Map%20from%20the%20FNaF%201.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Difarimod/freddy/Map%20from%20the%20FNaF%201/Map%20from%20the%20FNaF%201.zip",
+			"description": "file:///android_asset/difarimod.html"
+		},
+		{
+			"id": 12,
+			"name": "Monty from Fnaf 9",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Difarimod/freddy/Monty%20from%20Fnaf%209/Monty%20from%20Fnaf%209.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Difarimod/freddy/Monty%20from%20Fnaf%209/Monty%20from%20Fnaf%209.zip",
+			"description": "file:///android_asset/difarimod.html"
+		},
+		{
+			"id": 13,
+			"name": "NPC - Freddie Fazber",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Difarimod/freddy/NPC%20-%20Freddie%20Fazber/NPC%20-%20Freddie%20Fazber.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Difarimod/freddy/NPC%20-%20Freddie%20Fazber/NPC%20-%20Freddie%20Fazber.zip",
+			"description": "file:///android_asset/difarimod.html"
+		},
+		{
+			"id": 14,
+			"name": "NPC - Golden Freddy",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Difarimod/freddy/NPC%20-%20Golden%20Freddy/NPC%20-%20Golden%20Freddy.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Difarimod/freddy/NPC%20-%20Golden%20Freddy/NPC%20-%20Golden%20Freddy.zip",
+			"description": "file:///android_asset/difarimod.html"
+		},
+		{
+			"id": 15,
+			"name": "NPC from FNAF",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Difarimod/freddy/NPC%20from%20FNAF/NPC%20from%20FNAF.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Difarimod/freddy/NPC%20from%20FNAF/NPC%20from%20FNAF.zip",
+			"description": "file:///android_asset/difarimod.html"
+		},
+		{
+			"id": 16,
+			"name": "NPC Mundrop from Fnaf 9",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Difarimod/freddy/NPC%20Mundrop%20from%20Fnaf%209/NPC%20Mundrop%20from%20Fnaf%209.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Difarimod/freddy/NPC%20Mundrop%20from%20Fnaf%209/NPC%20Mundrop%20from%20Fnaf%209.zip",
+			"description": "file:///android_asset/difarimod.html"
+		},
+		{
+			"id": 17,
+			"name": "Security Brich",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Difarimod/freddy/Security%20Brich/Security%20Brich.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Difarimod/freddy/Security%20Brich/Security%20Brich.zip",
+			"description": "file:///android_asset/difarimod.html"
+		},
+		{
+			"id": 18,
+			"name": "Sundrop",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Difarimod/freddy/Sundrop/Sundrop.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Difarimod/freddy/Sundrop/Sundrop.zip",
+			"description": "file:///android_asset/difarimod.html"
 		}
 	]
 }
