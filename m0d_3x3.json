@@ -59,6 +59,46 @@
 			"image": "https://aweu.net/2023/BENDOIL/Difarimod/exe/Sonic%20exe%203/Sonic%20exe%203.jpg",
 			"download": "https://aweu.net/2023/BENDOIL/Difarimod/exe/Sonic%20exe%203/Sonic%20exe%203.zip",
 			"description": "file:///android_asset/difarimod.html"
+		},
+		{
+			"id": 4,
+			"name": "crippy pack",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Difarimod/exe/crippy%20pack/crippy%20pack.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Difarimod/exe/crippy%20pack/crippy%20pack.zip",
+			"description": "file:///android_asset/difarimod.html"
+		},
+		{
+			"id": 5,
+			"name": "ng exe",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Difarimod/exe/ng%20exe%E2%80%8B/ng%20exe.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Difarimod/exe/ng%20exe%E2%80%8B/ng%20exe%E2%80%8B.zip",
+			"description": "file:///android_asset/difarimod.html"
+		},
+		{
+			"id": 6,
+			"name": "Sonic by Zewirka",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Difarimod/exe/Sonic%20by%20Zewirka/Sonic%20by%20Zewirka.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Difarimod/exe/Sonic%20by%20Zewirka/Sonic%20by%20Zewirka.zip",
+			"description": "file:///android_asset/difarimod.html"
+		},
+		{
+			"id": 7,
+			"name": "sonic the hedgehog",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Difarimod/exe/sonic%20the%20hedgehog/sonic%20the%20hedgehog.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Difarimod/exe/sonic%20the%20hedgehog/sonic%20the%20hedgehog.zip",
+			"description": "file:///android_asset/difarimod.html"
+		},
+		{
+			"id": 8,
+			"name": "sonic.exe V1",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Difarimod/exe/sonic.exe%20V1/sonic.exe%20V1.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Difarimod/exe/sonic.exe%20V1/sonic.exe%20V1.zip",
+			"description": "file:///android_asset/difarimod.html"
 		}
 	]
 }
