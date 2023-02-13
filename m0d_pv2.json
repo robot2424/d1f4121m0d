@@ -38,42 +38,26 @@
 	"Mods": [
 		{
 			"id": 1,
-			"name": "",
+			"name": "Ball from Pvz",
 			"category": "Mods",
-			"image": "https://aweu.net/2023/BENDOIL/",
-			"download": "https://aweu.net/2023/BENDOIL/",
+			"image": "https://aweu.net/2023/BENDOIL/Difarimod/pvz/Ball%20from%20Pvz/Ball%20from%20Pvz.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Difarimod/pvz/Ball%20from%20Pvz/Ball%20from%20Pvz.zip",
 			"description": "file:///android_asset/difarimod.html"
 		},
 		{
 			"id": 2,
-			"name": "",
+			"name": "GOROXPVZ",
 			"category": "Mods",
-			"image": "https://aweu.net/2023/BENDOIL/",
-			"download": "https://aweu.net/2023/BENDOIL/",
+			"image": "https://aweu.net/2023/BENDOIL/Difarimod/pvz/GOROXPVZ/GOROXPVZ.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Difarimod/pvz/GOROXPVZ/GOROXPVZ.zip",
 			"description": "file:///android_asset/difarimod.html"
 		},
 		{
 			"id": 3,
-			"name": "",
+			"name": "PVZ",
 			"category": "Mods",
-			"image": "https://aweu.net/2023/BENDOIL/",
-			"download": "https://aweu.net/2023/BENDOIL/",
-			"description": "file:///android_asset/difarimod.html"
-		},
-		{
-			"id": 4,
-			"name": "",
-			"category": "Mods",
-			"image": "https://aweu.net/2023/BENDOIL/",
-			"download": "https://aweu.net/2023/BENDOIL/",
-			"description": "file:///android_asset/difarimod.html"
-		},
-		{
-			"id": 5,
-			"name": "",
-			"category": "Mods",
-			"image": "https://aweu.net/2023/BENDOIL/",
-			"download": "https://aweu.net/2023/BENDOIL/",
+			"image": "https://aweu.net/2023/BENDOIL/Difarimod/pvz/PVZ/PVZ.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Difarimod/pvz/PVZ/PVZ.zip",
 			"description": "file:///android_asset/difarimod.html"
 		}
 	]
