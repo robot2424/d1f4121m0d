@@ -38,42 +38,18 @@
 	"Mods": [
 		{
 			"id": 1,
-			"name": "",
+			"name": "mini pets",
 			"category": "Mods",
-			"image": "https://aweu.net/2023/BENDOIL/",
-			"download": "https://aweu.net/2023/BENDOIL/",
+			"image": "https://aweu.net/2023/BENDOIL/Difarimod/pet/mini%20pets/mini%20pets.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Difarimod/pet/mini%20pets/mini%20pets.zip",
 			"description": "file:///android_asset/difarimod.html"
 		},
 		{
 			"id": 2,
-			"name": "",
+			"name": "slugs",
 			"category": "Mods",
-			"image": "https://aweu.net/2023/BENDOIL/",
-			"download": "https://aweu.net/2023/BENDOIL/",
-			"description": "file:///android_asset/difarimod.html"
-		},
-		{
-			"id": 3,
-			"name": "",
-			"category": "Mods",
-			"image": "https://aweu.net/2023/BENDOIL/",
-			"download": "https://aweu.net/2023/BENDOIL/",
-			"description": "file:///android_asset/difarimod.html"
-		},
-		{
-			"id": 4,
-			"name": "",
-			"category": "Mods",
-			"image": "https://aweu.net/2023/BENDOIL/",
-			"download": "https://aweu.net/2023/BENDOIL/",
-			"description": "file:///android_asset/difarimod.html"
-		},
-		{
-			"id": 5,
-			"name": "",
-			"category": "Mods",
-			"image": "https://aweu.net/2023/BENDOIL/",
-			"download": "https://aweu.net/2023/BENDOIL/",
+			"image": "https://aweu.net/2023/BENDOIL/Difarimod/pet/slugs%E2%80%8B/slugs.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Difarimod/pet/slugs%E2%80%8B/slugs%E2%80%8B.zip",
 			"description": "file:///android_asset/difarimod.html"
 		}
 	]
