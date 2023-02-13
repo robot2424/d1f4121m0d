@@ -38,34 +38,34 @@
 	"Mods": [
 		{
 			"id": 1,
-			"name": "",
+			"name": "speed train​ (1)",
 			"category": "Mods",
-			"image": "https://aweu.net/2023/BENDOIL/",
-			"download": "https://aweu.net/2023/BENDOIL/",
+			"image": "https://aweu.net/2023/BENDOIL/Difarimod/thomas/speed%20train%E2%80%8B%20(1)/speed%20train%E2%80%8B%20(1).jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Difarimod/thomas/speed%20train%E2%80%8B%20(1)/speed%20train%E2%80%8B%20(1).zip",
 			"description": "file:///android_asset/difarimod.html"
 		},
 		{
 			"id": 2,
-			"name": "",
+			"name": "train",
 			"category": "Mods",
-			"image": "https://aweu.net/2023/BENDOIL/",
-			"download": "https://aweu.net/2023/BENDOIL/",
+			"image": "https://aweu.net/2023/BENDOIL/Difarimod/thomas/train/train.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Difarimod/thomas/train/train%E2%80%8B.zip",
 			"description": "file:///android_asset/difarimod.html"
 		},
 		{
 			"id": 3,
-			"name": "",
+			"name": "train 1",
 			"category": "Mods",
-			"image": "https://aweu.net/2023/BENDOIL/",
-			"download": "https://aweu.net/2023/BENDOIL/",
+			"image": "https://aweu.net/2023/BENDOIL/Difarimod/thomas/train%201/train%201.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Difarimod/thomas/train%201/train%201%E2%80%8B.zip",
 			"description": "file:///android_asset/difarimod.html"
 		},
 		{
 			"id": 4,
-			"name": "",
+			"name": "Trains",
 			"category": "Mods",
-			"image": "https://aweu.net/2023/BENDOIL/",
-			"download": "https://aweu.net/2023/BENDOIL/",
+			"image": "https://aweu.net/2023/BENDOIL/Difarimod/thomas/Trains/Trains.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Difarimod/thomas/Trains/Trains.zip",
 			"description": "file:///android_asset/difarimod.html"
 		},
 		{
