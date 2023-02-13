@@ -38,42 +38,34 @@
 	"Mods": [
 		{
 			"id": 1,
-			"name": "",
+			"name": "Scp 682",
 			"category": "Mods",
-			"image": "https://aweu.net/2023/BENDOIL/",
-			"download": "https://aweu.net/2023/BENDOIL/",
+			"image": "https://aweu.net/2023/BENDOIL/Difarimod/wendigo/Scp%20682%E2%80%8B/Scp%20682%E2%80%8B.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Difarimod/wendigo/Scp%20682%E2%80%8B/Scp%20682%E2%80%8B.zip",
 			"description": "file:///android_asset/difarimod.html"
 		},
 		{
 			"id": 2,
-			"name": "",
+			"name": "wendigo",
 			"category": "Mods",
-			"image": "https://aweu.net/2023/BENDOIL/",
-			"download": "https://aweu.net/2023/BENDOIL/",
+			"image": "https://aweu.net/2023/BENDOIL/Difarimod/wendigo/wendigo/wendigo.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Difarimod/wendigo/wendigo/wendigo.zip",
 			"description": "file:///android_asset/difarimod.html"
 		},
 		{
 			"id": 3,
-			"name": "",
+			"name": "Wendigo Melmod",
 			"category": "Mods",
-			"image": "https://aweu.net/2023/BENDOIL/",
-			"download": "https://aweu.net/2023/BENDOIL/",
+			"image": "https://aweu.net/2023/BENDOIL/Difarimod/wendigo/Wendigo%20Melmod/Wendigo%20Melmod.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Difarimod/wendigo/Wendigo%20Melmod/Wendigo%20Melmod.zip",
 			"description": "file:///android_asset/difarimod.html"
 		},
 		{
 			"id": 4,
-			"name": "",
+			"name": "Wendigo_ Melsave",
 			"category": "Mods",
-			"image": "https://aweu.net/2023/BENDOIL/",
-			"download": "https://aweu.net/2023/BENDOIL/",
-			"description": "file:///android_asset/difarimod.html"
-		},
-		{
-			"id": 5,
-			"name": "",
-			"category": "Mods",
-			"image": "https://aweu.net/2023/BENDOIL/",
-			"download": "https://aweu.net/2023/BENDOIL/",
+			"image": "https://aweu.net/2023/BENDOIL/Difarimod/wendigo/Wendigo_%20Melsave/Wendigo_%20Melsave.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Difarimod/wendigo/Wendigo_%20Melsave/Wendigo_%20Melsave.zip",
 			"description": "file:///android_asset/difarimod.html"
 		}
 	]
