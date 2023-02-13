@@ -38,42 +38,18 @@
 	"Mods": [
 		{
 			"id": 1,
-			"name": "",
+			"name": "jormungandr",
 			"category": "Mods",
-			"image": "https://aweu.net/2023/BENDOIL/",
-			"download": "https://aweu.net/2023/BENDOIL/",
+			"image": "https://aweu.net/2023/BENDOIL/Difarimod/jormungandr/jormungandr/jormungandr.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Difarimod/jormungandr/jormungandr/jormungandr.zip",
 			"description": "file:///android_asset/difarimod.html"
 		},
 		{
 			"id": 2,
-			"name": "",
+			"name": "the in jormungandr",
 			"category": "Mods",
-			"image": "https://aweu.net/2023/BENDOIL/",
-			"download": "https://aweu.net/2023/BENDOIL/",
-			"description": "file:///android_asset/difarimod.html"
-		},
-		{
-			"id": 3,
-			"name": "",
-			"category": "Mods",
-			"image": "https://aweu.net/2023/BENDOIL/",
-			"download": "https://aweu.net/2023/BENDOIL/",
-			"description": "file:///android_asset/difarimod.html"
-		},
-		{
-			"id": 4,
-			"name": "",
-			"category": "Mods",
-			"image": "https://aweu.net/2023/BENDOIL/",
-			"download": "https://aweu.net/2023/BENDOIL/",
-			"description": "file:///android_asset/difarimod.html"
-		},
-		{
-			"id": 5,
-			"name": "",
-			"category": "Mods",
-			"image": "https://aweu.net/2023/BENDOIL/",
-			"download": "https://aweu.net/2023/BENDOIL/",
+			"image": "https://aweu.net/2023/BENDOIL/Difarimod/jormungandr/the%20in%20jormungandr%E2%80%8B/the%20in%20jormungandr%E2%80%8B.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Difarimod/jormungandr/the%20in%20jormungandr%E2%80%8B/the%20in%20jormungandr%E2%80%8B.zip",
 			"description": "file:///android_asset/difarimod.html"
 		}
 	]
